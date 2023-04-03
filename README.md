@@ -1,7 +1,7 @@
 # Quantum-SVM
 Solving a Classification Problem Using Quantum Support Vector Machine.
 
-##Short Overview
+## Short Overview
 
 ![ptri_score (1)](https://user-images.githubusercontent.com/48941230/229471933-b602283d-d6d3-42e4-99ef-141346f13421.png)
 
